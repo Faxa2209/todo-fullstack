@@ -13,7 +13,7 @@ Basic CRUD Todo App
 Clone the project
 
 ```bash
-  git clone https://github.com/Faxa2209/todo-fullstack
+  git clone https://github.com/faxa0-0/todo-fullstack
 ```
 
 Go to the frontend directory
